@@ -22,7 +22,7 @@
 </p>
 Сжатое изображение:
 <p align="center">
- <img width="100px" src="x.jpeg" alt="qr"/>
+ <img width="100px" src="x.jpg" alt="qr"/>
 </p>
 Восстановленное:
 <p align="center">
