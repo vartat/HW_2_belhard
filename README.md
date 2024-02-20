@@ -26,5 +26,5 @@
 </p>
 Восстановленное:
 <p align="center">
- <img width="200px" src="pred(1).jpg" alt="qr"/>
+ <img width="100px" src="pred (1).jpg" alt="qr"/>
 </p>
